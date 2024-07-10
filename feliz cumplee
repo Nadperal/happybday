@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Cumpleaños</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #ff6347;
+        }
+        p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NEZUKO KAMADO DIJO...</h1>
+        <p>No cargues con ese peso sin razón, .</p>
+        <p>somos humanos, después de todo</p>
+        <p>hay cosas que están fuera de nuestro control.</p>
+        <p>La felicidad solo depende de uno mismo</p>
+        <p>lo único importante es el presente UWU</p>
+        <p>¡FELIZ CUMPLEAÑOS!</p>
+
+
+        <!-- Aquí agregamos la etiqueta <audio> -->
+        <audio controls autoplay>
+            <source src="file:///C:/Users/nad_c/Desktop/Happybdaymayo.mp3" type="audio/mp3">
+            <!-- Añade más <source> tags para otros formatos de audio como OGG, WAV, etc. -->
+            Tu navegador no soporta la etiqueta de audio.
+        </audio>
+    </div>
+</body>
+</html>
